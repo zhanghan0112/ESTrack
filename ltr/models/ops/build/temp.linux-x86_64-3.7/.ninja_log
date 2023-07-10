@@ -1,0 +1,7 @@
+# ninja log v5
+6	8149	1642389096	/home/zxh/project/TransT/ltr/models/ops/build/temp.linux-x86_64-3.7/home/zxh/project/TransT/ltr/models/ops/src/cpu/ms_deform_attn_cpu.o	a8d7a022b5e4a905
+19	27941	1642389116	/home/zxh/project/TransT/ltr/models/ops/build/temp.linux-x86_64-3.7/home/zxh/project/TransT/ltr/models/ops/src/cuda/ms_deform_attn_cuda.o	fa2588f515f2517c
+0	42935	1642389131	/home/zxh/project/TransT/ltr/models/ops/build/temp.linux-x86_64-3.7/home/zxh/project/TransT/ltr/models/ops/src/vision.o	329295fe435ef999
+8	2489	1643956955	/home/zxh/project/TransT/ltr/models/ops/build/temp.linux-x86_64-3.7/home/zxh/project/TransT/ltr/models/ops/src/cpu/ms_deform_attn_cpu.o	ab057edf3f241a1a
+8	8523	1643956961	/home/zxh/project/TransT/ltr/models/ops/build/temp.linux-x86_64-3.7/home/zxh/project/TransT/ltr/models/ops/src/cuda/ms_deform_attn_cuda.o	20db1f9960a2abe0
+8	13205	1643956966	/home/zxh/project/TransT/ltr/models/ops/build/temp.linux-x86_64-3.7/home/zxh/project/TransT/ltr/models/ops/src/vision.o	b4a25222abdcb9b1
