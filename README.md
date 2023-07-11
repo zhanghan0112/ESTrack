@@ -70,24 +70,4 @@ This is a modified version of the python framework [PyTracking](https://github.c
 
   Feel free to contact me if you have additional questions.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=
-
 ## 
