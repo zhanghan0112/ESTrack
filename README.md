@@ -3,7 +3,7 @@
 
 + Green, red, blue, yellow  -> Groundtruth, ESTrack-repvgg, SiamAPN++, TCTrack
 
-![ESTrack](/home/zxh/ESTrack.gif)
+<img src="/home/zxh/ESTrack.gif" alt="ESTrack" style="zoom:50%;" />
 
 ## Getting started
 
