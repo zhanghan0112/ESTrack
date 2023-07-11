@@ -36,9 +36,9 @@ data_list = sorted(os.listdir(os.path.join('/home/zxh/pic/bike1')))
 
 def compose_gif():
     gif_images = []
-    for i in range(2000):
+    for i in range(200):
         gif_images.append(imageio.imread(os.path.join('/home/zxh/pic/bike1',data_list[i])))
-    imageio.mimsave('/home/zxh/ESTrack.gif', gif_images, duration=50)
+    imageio.mimsave('/home/zxh/project/ESTrack.gif', gif_images, duration=50)
 compose_gif()
 
 # import cv2
